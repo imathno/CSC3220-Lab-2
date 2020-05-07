@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Discount.png</file>
+        <file>assets/king_atrium.jpg</file>
+        <file>assets/king_standard.jpg</file>
+        <file>assets/queen_atrium.jpg</file>
+        <file>assets/queen_standard.jpg</file>
+    </qresource>
+</RCC>
